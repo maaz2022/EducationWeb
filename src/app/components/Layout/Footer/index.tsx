@@ -131,11 +131,11 @@ const Footer = () => {
         <h3 className='text-center text-white/60'>
           @2025 - All Rights Reserved by{' '}
           <Link
-            href='https://adminmart.com/'
+            href='https://mohammadmaaz.me'
             target='_blank'
             className='hover:text-white'>
             {' '}
-            GetNextJs Templates.com
+            Muhammad Maaz
           </Link>
         </h3>
       </div>
